@@ -1,9 +1,8 @@
 
-    ╔═════════════════════════════════════════════════════╗
    ║            Windows Server Failover Cluster            ║
    ║           Oracle Cloud (OCI) Implementation           ║
    ║           Created by Cengiz Ulusoy @ Oracle           ║
-    ╚═════════════════════════════════════════════════════╝
+
 
                      ██████╗  ██████╗██╗
                     ██╔═══██╗██╔════╝██║
