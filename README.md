@@ -1,7 +1,7 @@
 
   
                      ║           Oracle Cloud (OCI) Implementation           ║
-                     ║           Created by Cengiz Ulusoy @ Oracle           ║
+                     ║                Created by Mr Ulusoy                   ║
 
 
                                       ██████╗  ██████╗██╗
